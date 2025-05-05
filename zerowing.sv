@@ -16,7 +16,7 @@
 //
 //============================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module emu
 (
@@ -234,7 +234,7 @@ localparam CONF_STR = {
     "P1O89,Aspect Ratio,Original,Full Screen,[ARC1],[ARC2];",
     "P1O3,Orientation,Horz,Vert;",
     "P1-;",
-    "P1O46,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%,CRT 100%;",
+    "P1O46,Scandoubler-Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%,CRT 100%;",
     "P1OA,Force Scandoubler,Off,On;",
     "P1-;",
     "P1O7,Video Mode,NTSC,PAL;",
