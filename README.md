@@ -2,7 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
-Dev notes: Use Quartus 22.1 to synthesize, otherwise ROM Checking will stop on errors.
+Dev notes: Use Quartus 22.1 to synthesize, otherwise ROM Checking will have errors.
 
 ___
 # Toaplan (Zero Wing) FPGA Implementation
